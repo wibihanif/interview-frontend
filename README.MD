@@ -7,6 +7,7 @@ Components:
 - Photo Gallery
 - Image Carousel
 - Tooltip
+- rating widget / star rating
 
 ## Notes:
 > Dilarang menggunakan third-party library/package untuk membuat komponen-komponen
