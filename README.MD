@@ -1,6 +1,4 @@
-# SOAL INTERVIEW WEB DEVELOPER
-
-Buatlah sebuah project website menggunakan komponen-komponen berikut sebagai acuan pembuatan halaman dengan data-data yang diberikan di dalam file `images.json` yang tersedia.
+# REQUIRED COMPONENTS
 
 Components:
 
